@@ -1,6 +1,4 @@
 # SignVerse
-Here's a concise and informative **GitHub project description** for **SignVerse**:  
-
 ---
 
 ## **SignVerse: Inclusive Communication for Differently Abled Individuals**  
