@@ -28,5 +28,3 @@ Clone the repository and follow the setup instructions in the **README.md** to s
 - Refining Blender avatar animations for more natural and expressive gestures.  
 
 ---
-
-If this works for you or if there's anything you'd like to tweak, just let me know!
