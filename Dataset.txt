@@ -1,0 +1,7 @@
+Download the Avatar Dataset from here:
+
+https://1drv.ms/f/c/8ac9dcea24d78991/ErPwL25QElRFik99GdrbSE0BjHL2TcK1BWMFk3Qjj_2qQA?e=yl4tSg
+
+Download this and extract this in the Dataset folder which is in src 
+
+copy both cropped and final avatar dataset to the destination
